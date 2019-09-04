@@ -1,2 +1,2 @@
 # Deep-Learning
-This repository had Deep Learning Code.
+This repository has Deep Learning Code.
